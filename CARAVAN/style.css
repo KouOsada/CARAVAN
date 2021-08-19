@@ -43,7 +43,7 @@ header .heading {
 .main-visual-content {
   width: 40%;
   height: 300px;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   text-align: center;
   padding-top: 105px;
 }
@@ -141,7 +141,7 @@ main {
 }
 
 .sidebar-contents {
-  padding: 50px;
+  padding: 50px 0;
 }
 
 .popular-text,
@@ -198,7 +198,6 @@ main {
 .instagram-box:nth-child(6) {
   background-image: url(img/road.jpg);
 }
-
 
 footer {
   width: 100%;
